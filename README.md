@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @HudsonRoss
-- 👀 I’m interested in ... Python, k8s, cloud, infrastructure automation, IT security.
-- 🌱 I’m currently learning ... Rust
-- 💞️ I’m looking to collaborate on ... it security projects
+- 👀 I’m interested in ... ML, MLOps, DevOps, Crypto and IT security.
 - 📫 How to reach me ... e-mail me at hudson@sejongconsortium.com
 
 <!---
